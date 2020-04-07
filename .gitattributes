@@ -2,6 +2,6 @@
 *.css linguist-vendored
 *.scss linguist-vendored
 *.js linguist-vendored
-*.robot linguist-vendored
+*.html linguist-vendored
 *.php linguist-vendored
 CHANGELOG.md export-ignore
